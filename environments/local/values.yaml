@@ -1,6 +1,6 @@
 image:
   repository: localhost:5000/habitapp
-  tag: "e896060aaed0bfd4bfa5fb904c04aef6bd47d284"
+  tag: "a4d26556c8c3eb832f1fa6435e3657c711913ce5"
 service:
   type: NodePort
   nodePort: 30080
